@@ -1,6 +1,6 @@
 # End-to-End-MLOPs-DS-Project
 
-### Workflows for this project
+### Workflow for this project
 
 
 1. Update config.yaml
